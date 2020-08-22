@@ -89,7 +89,7 @@ $ python webcam.py
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
 
 
-Made with :heart: by <a href="https://github.com/anandgupta1202" target="_blank">anand gupta</a>
+Made with :heart: by <a href="https://github.com/anandgupta1202" target="_blank">Anand Gupta</a>
 
 &#xa0;
 
