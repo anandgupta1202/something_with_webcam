@@ -24,11 +24,11 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/anandgupta1202/something_with_webcam?color=56BEB8" /> -->
 </p>
 
-Status
+<!-- Status
 
 <h4 align="center"> 
 	🚧  Something_with_webcam 🚀 Under construction...  🚧
-</h4> 
+</h4>  -->
 
 <hr>
 
